@@ -1,2 +1,2 @@
 # nicholasbaxter.tech
-my website
+This is website I made for my Mart210 class at USC.
